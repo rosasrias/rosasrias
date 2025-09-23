@@ -1,84 +1,65 @@
-# Hola, ¿Qué hay de nuevo?
+# 👋 Hola, soy Alex Diego Rosas (nyxkam)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="Storybook logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS logo" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,git,github" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,go,rust" height="50" />
+  <img src="https://skillicons.dev/icons?i=unity,aws" height="50" />
 </div>
 
 ---
 
 ## 👤 Sobre mí
 
-- **Nombre**: Alex (“nyxkam”)  
-- **Lo que me gusta hacer**: Desarrollo de software full-stack, me mueve el Open Source y los videojuegos.  
-- **Lenguajes / tecnologías favoritas**: Python, Lua, JavaScript… también me estoy metiendo con Go, Rust, NestJS, etc.  
-- **Rol**: Freelancer / entusiasta del desarrollo, colaboraciones, juegos, proyectos personales.  
+- 🎓 Estudiante técnico en **Diseño y Desarrollo de Videojuegos y RA (SENATI)**  
+- 💻 **Frontend Developer Jr.** con experiencia en React, JavaScript y proyectos comunitarios  
+- 🎮 Apasionado por el **open source, los videojuegos y las interfaces modernas**  
+- 🌱 Actualmente explorando **Go, Rust y NestJS** para ampliar mi stack  
 
 ---
 
 ## 🛠 Habilidades
 
-| Categoría | Herramientas / tecnologías |
-|-----------|-----------------------------|
-| Frontend | TypeScript, Next.js, Tailwind CSS, Storybook |
-| Backend / Infra | NestJS, Go, AWS |
-| Otros / Extras | Rust, Python, GraphQL, Lua |
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Frontend** | React, TypeScript, Next.js, Tailwind CSS, Storybook |
+| **Backend / Infra** | Node.js, NestJS, Go, Python, AWS |
+| **Game Dev / Extras** | Unity, C#, GraphQL, Rust, Lua |
 
 ---
 
-## 🔭 Lo que estoy haciendo ahora
+## 🔭 En lo que estoy trabajando
 
-- Trabajando en [Proyecto-Grupo-03] — desarrollo de videojuegos como proyecto formativo en SENATI. :contentReference[oaicite:0]{index=0}  
-- Desarrollo de “Halley”, un videojuego móvil con Unity. :contentReference[oaicite:1]{index=1}  
-- Colaborando y aprendiendo en repositorios personales, experimentos con GDD (game document design), informes en LaTeX, etc. :contentReference[oaicite:2]{index=2}
+- 🛒 **E-commerce comunitario** → Proyecto colaborativo en React + API REST  
+- 🎮 **Halley** → Videojuego móvil en Unity (proyecto personal)  
+- 📚 **Cuaderno de informes** → Plantillas en LaTeX para documentación técnica  
 
 ---
 
 ## 📂 Proyectos destacados
 
-Aquí algunos repos de los que estoy orgulloso:
-
-| Proyecto | Descripción |
-|----------|-------------|
-| Proyecto-Grupo-03 | Desarrollo de videojuegos para curso práctico en SENATI. :contentReference[oaicite:3]{index=3} |
-| Halley | Videojuego móvil en desarrollo con Unity. :contentReference[oaicite:4]{index=4} |
-| Cuaderno-de-Informes | Formatos en LaTeX para cuadernos de informes. :contentReference[oaicite:5]{index=5} |
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [E-commerce Comunitario](https://github.com/nyxkam/ecommerce) | Proyecto colaborativo de tienda online con login, carrito y consumo de API | React, Styled Components, REST API |
+| [Halley](https://github.com/nyxkam/halley) | Videojuego móvil en Unity en desarrollo | Unity, C# |
+| [Cuaderno de Informes](https://github.com/nyxkam/cuaderno-informes) | Plantillas en LaTeX para reportes y trabajos técnicos | LaTeX |
 
 ---
 
 ## 📫 Cómo contactarme
 
-- LinkedIn: [Alex Diego Rosas Quispe](https://www.linkedin.com/in/alex-diego-rosas-quispe-347b0029b) :contentReference[oaicite:6]{index=6}  
-- [Tu Twitter] – si lo querés agregar  
-- [Discord/Twitch/etc] – si lo usas para dev o streaming
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alex-diego-rosas-quispe-347b0029b)  
+- 💻 [GitHub](https://github.com/nyxkam)  
+- 📧 alex.rosas.dev@gmail.com *(ejemplo, cámbialo por el tuyo real)*  
 
 ---
 
-## 🏆 Reconocimientos / Estadísticas
+## 🏆 Estadísticas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nyxkam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=nyxkam&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=nyxkam&theme=dracula&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=nyxkam&theme=dracula&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150" alt="trophy graph" />
 </div>
 
 ---
 
-¡Gracias por pasar por acá! Si te interesa ver algo en especial, algún demo o charla, dejame un issue o un mensaje.  
-
+✨ ¡Gracias por visitar mi perfil! Si te interesa colaborar en algún proyecto, no dudes en escribirme.
