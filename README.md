@@ -1,4 +1,4 @@
-# 👋 Hola, soy Alex Diego Rosas (nyxkam)
+# 👋 Hola, soy Alex Rosas (nyxkam)
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,git,github" height="50" />
