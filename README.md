@@ -10,7 +10,7 @@
 
 ## 👤 Sobre mí
 
-- 🎓 Estudiante técnico en **Diseño y Desarrollo de Videojuegos y RA (SENATI)**  
+- 🎓 Estudiante en **Diseño y Desarrollo de Videojuegos y RA (SENATI)**  
 - 💻 **Frontend Developer Jr.** con experiencia en React, JavaScript y proyectos comunitarios  
 - 🎮 Apasionado por el **open source, los videojuegos y las interfaces modernas**  
 - 🌱 Actualmente explorando **Go, Rust y NestJS** para ampliar mi stack  
