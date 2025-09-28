@@ -48,7 +48,7 @@ Me desempeño como **Frontend Developer Jr.**, usando React y JavaScript, y esto
 
 - LinkedIn: [alex-diego-rosas-quispe](https://www.linkedin.com/in/alex-diego-rosas-quispe-347b0029b)  
 - GitHub: [rosasrias](https://github.com/rosasrias)  
-- Email: *(aquí pon tu correo real)*  
+- Email: [mailto:rosasrias82@gmail.com](rosasrias82@gmail.com)*  
 
 ---
 
