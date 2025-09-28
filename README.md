@@ -1,65 +1,64 @@
-# 👋 Hola, soy Alex Rosas (nyxkam)
+<!-- Puedes agregar un badge de estado (build, coverage, etc) aquí si lo tienes -->
+# 👋 Hola, soy **Alex Rosas** (aka *rosasrias*)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,git,github" height="50" />
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,go,rust" height="50" />
-  <img src="https://skillicons.dev/icons?i=unity,aws" height="50" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,git,github" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,python,rust" height="40" />
+  <img src="https://skillicons.dev/icons?i=unity,aws" height="40" />
 </div>
 
 ---
 
 ## 👤 Sobre mí
 
-- 🎓 Estudiante en **Diseño y Desarrollo de Videojuegos y RA (SENATI)**  
-- 💻 **Frontend Developer Jr.** con experiencia en React, JavaScript y proyectos comunitarios  
-- 🎮 Apasionado por el **open source, los videojuegos y las interfaces modernas**  
-- 🌱 Actualmente explorando **Go, Rust y NestJS** para ampliar mi stack  
+Soy estudiante de **Diseño y Desarrollo de Videojuegos y RA (SENATI)**, con entusiasmo por la programación, las interfaces elegantes y el mundo open source.  
+Me desempeño como **Frontend Developer Jr.**, usando React y JavaScript, y estoy expandiendo mi stack con Go, Rust y NestJS.
 
 ---
 
-## 🛠 Habilidades
+## 🛠 Habilidades técnicas
 
-| Categoría | Tecnologías |
-|-----------|-------------|
-| **Frontend** | React, TypeScript, Next.js, Tailwind CSS, Storybook |
-| **Backend / Infra** | Node.js, NestJS, Go, Python, AWS |
-| **Game Dev / Extras** | Unity, C#, GraphQL, Rust, Lua |
+| Área | Tecnologías |
+|------|--------------|
+| Frontend | React, TypeScript, Next.js, Tailwind CSS, Storybook |
+| Backend / Infra | Node.js, NestJS, Go, Python, AWS |
+| Game Dev / Extras | Unity, C#, GraphQL, Rust, Lua |
 
 ---
 
-## 🔭 En lo que estoy trabajando
+## 🔭 Proyectos en los que estoy trabajando
 
-- 🛒 **E-commerce comunitario** → Proyecto colaborativo en React + API REST  
-- 🎮 **Halley** → Videojuego móvil en Unity (proyecto personal)  
-- 📚 **Cuaderno de informes** → Plantillas en LaTeX para documentación técnica  
+- **E-commerce comunitario** → app colaborativa con React y consumo de API REST  
+- **Halley** → videojuego móvil en desarrollo con Unity (proyecto personal)  
+- **Cuaderno de informes** → plantillas en LaTeX para documentación técnica  
 
 ---
 
 ## 📂 Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [E-commerce Comunitario](https://github.com/nyxkam/ecommerce) | Proyecto colaborativo de tienda online con login, carrito y consumo de API | React, Styled Components, REST API |
-| [Halley](https://github.com/nyxkam/halley) | Videojuego móvil en Unity en desarrollo | Unity, C# |
-| [Cuaderno de Informes](https://github.com/nyxkam/cuaderno-informes) | Plantillas en LaTeX para reportes y trabajos técnicos | LaTeX |
+|---------|-------------|--------------|
+| [E-commerce Comunitario](https://github.com/rosasrias/ecommerce) | Tienda online con login, carrito y operaciones típicas | React, REST API |
+| [Halley](https://github.com/rosasrias/halley) | Videojuego móvil en desarrollo | Unity, C# |
+| [Cuaderno de Informes](https://github.com/rosasrias/cuaderno-de-informes) | Plantillas y estilos en LaTeX para trabajos técnicos | LaTeX |
 
 ---
 
-## 📫 Cómo contactarme
+## 📫 Dónde contactarme
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alex-diego-rosas-quispe-347b0029b)  
-- 💻 [GitHub](https://github.com/nyxkam)  
-- 📧 alex.rosas.dev@gmail.com *(ejemplo, cámbialo por el tuyo real)*  
+- LinkedIn: [alex-diego-rosas-quispe](https://www.linkedin.com/in/alex-diego-rosas-quispe-347b0029b)  
+- GitHub: [rosasrias](https://github.com/rosasrias)  
+- Email: *(aquí pon tu correo real)*  
 
 ---
 
-## 🏆 Estadísticas
+## 🏆 Estadísticas y reconocimientos
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nyxkam&theme=dracula&hide_border=true" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=nyxkam&theme=dracula&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=rosasrias&theme=dracula&hide_border=true" height="120" alt="GitHub streak"/>
+  <img src="https://github-profile-trophy.vercel.app?username=rosasrias&theme=dracula&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="120" alt="GitHub trophies"/>
 </div>
 
 ---
 
-✨ ¡Gracias por visitar mi perfil! Si te interesa colaborar en algún proyecto, no dudes en escribirme.
+✨ Gracias por visitar mi perfil. Si te prende la idea de colaborar en algún proyecto, dame un piropo (o mensaje) y nos ponemos de acuerdo.  
