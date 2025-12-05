@@ -12,6 +12,10 @@ Soy Diseñador y Desarrollador de Videojuegos y RA, con entusiasmo por la progra
 ![](https://nirzak-streak-stats.vercel.app/?user=rosasrias&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rosasrias&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rosasrias&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4)
 
